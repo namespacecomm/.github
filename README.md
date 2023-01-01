@@ -1,1 +1,2 @@
-# .github
+# NSCC BPIT 
+# tech society
