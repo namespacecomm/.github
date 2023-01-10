@@ -11,8 +11,9 @@
     
     <a href="https://twitter.com/nscc_bpit"><img src="https://img.shields.io/badge/Twitter-NSCC%20BPIT-blue?logo=twitter&logoColor=blue&color=blue"/></a>
     <a href="https://www.linkedin.com/company/nsccbpit/"><img src="https://img.shields.io/badge/LinkedIn-NSCC%20BPIT-blue?logo=linkedin&logoColor=blue&color=darkcyan" /></a>
+    <a href="https://chat.whatsapp.com/CkxgxPLfWSUCqNFTwXITTd"><img src="https://img.shields.io/badge/WhatsApp-NSCC%20BPIT-green?logo=whatsapp&logoColor=green&color=green" /></a>
     <a href="https://instagram.com/nscc_bpit"><img src="https://img.shields.io/badge/Instagram-NSCC%20BPIT-red?logo=instagram&logoColor=red&color=red" /></a>
-    <a href="https://chat.whatsapp.com/CkxgxPLfWSUCqNFTwXITTd"><img src="https://img.shields.io/badge/WhatsApp-NSCC%20BPIT-brightgreen?logo=whatsapp&logoColor=brightgren&color=brightgreen" /></a>
+    
 </div>
 <br>
 
