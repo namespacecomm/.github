@@ -1,16 +1,16 @@
 <!-- First Panel (Social Icons) -->
 
 <h2 align="center">
-    🎉 Welcome to NSCC BPIT 🎉 
+    🎉 Welcome to The nameSpace Community 🎉 
 </h2> <br />
     <p align = "center">
     <a href="" /></a>
 </p>
 
 <div align="center">
-    <a href="https://twitter.com/nscc_bpit"><img src="https://img.shields.io/badge/Twitter-NSCC%20BPIT-blue?logo=twitter&logoColor=blue&color=blue"/></a>
-    <a href="https://www.linkedin.com/company/nsccbpit/"><img src="https://img.shields.io/badge/LinkedIn-NSCC%20BPIT-blue?logo=linkedin&logoColor=blue&color=darkcyan" /></a>
-    <a href="https://instagram.com/nscc_bpit"><img src="https://img.shields.io/badge/Instagram-NSCC%20BPIT-red?logo=instagram&logoColor=red&color=red" /></a>
+    <a href="https://twitter.com/namespacecomm"><img src="https://img.shields.io/badge/Twitter-NAMESPACE%20-blue?logo=twitter&logoColor=blue&color=blue"/></a>
+    <a href="https://www.linkedin.com/company/namespacecomm/"><img src="https://img.shields.io/badge/LinkedIn-NSCC%20BPIT-blue?logo=linkedin&logoColor=blue&color=darkcyan" /></a>
+    <a href="https://instagram.com/namespacecomm"><img src="https://img.shields.io/badge/Instagram-NSCC%20BPIT-red?logo=instagram&logoColor=red&color=red" /></a>
 </div>
 <br>
 
