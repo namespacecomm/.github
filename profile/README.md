@@ -8,11 +8,11 @@
 </p>
 
 <div align="center">
-    <a href="https://twitter.com/namespacecomm"><img src="https://img.shields.io/badge/Twitter-NAMESPACE-black?logo=x&logoColor=blue&color=black" style="width: 150px; height: 30px;"/></a>
-    <a href="https://www.linkedin.com/company/namespacecomm/"><img src="https://img.shields.io/badge/LinkedIn-NAMESPACE-blue?logo=linkedin&logoColor=blue&color=darkcyan" style="width: 150px; height: 30px;" /></a>
-    <a href="https://instagram.com/namespacecomm"><img src="https://img.shields.io/badge/Instagram-NAMESPACE-red?logo=instagram&logoColor=red&color=red" style="width: 150px; height: 30px;" /></a>
-    <a href="https://youtube.com/namespacecomm"><img src="https://img.shields.io/badge/YouTube-NAMESPACE-red?logo=youtube&logoColor=red&color=red" style="width: 150px; height: 30px;" /></a>
-    <a href="https://discord.com/invite/namespacecomm"><img src="https://img.shields.io/badge/Discord-NAMESPACE-violet?logo=discord&logoColor=violet&color=violet" style="width: 150px; height: 30px;" /></a>
+    <a href="https://twitter.com/namespacecomm"><img src="https://img.shields.io/badge/Twitter-NAMESPACE-black?logo=x&logoColor=blue&color=black" style="width: 150px; height: 25px;"/></a>
+    <a href="https://www.linkedin.com/company/namespacecomm/"><img src="https://img.shields.io/badge/LinkedIn-NAMESPACE-blue?logo=linkedin&logoColor=blue&color=darkcyan" style="width: 150px; height: 25px;" /></a>
+    <a href="https://instagram.com/namespacecomm"><img src="https://img.shields.io/badge/Instagram-NAMESPACE-red?logo=instagram&logoColor=red&color=red" style="width: 150px; height: 25px;" /></a>
+    <a href="https://youtube.com/namespacecomm"><img src="https://img.shields.io/badge/YouTube-NAMESPACE-red?logo=youtube&logoColor=red&color=red" style="width: 150px; height: 25px;" /></a>
+    <a href="https://discord.com/invite/namespacecomm"><img src="https://img.shields.io/badge/Discord-NAMESPACE-violet?logo=discord&logoColor=violet&color=violet" style="width: 150px; height: 25px;" /></a>
 </div>
 
 
@@ -30,8 +30,7 @@ By contributing to open-source projects, you're shaping the core of NAMESPACE, b
 
 Open-Source Projects | Description |
 :-- | :--
-[Data Structure and Algorithms](https://github.com/NSCC-BPIT/Data-Structure-and-Algorithms) | DSA Problems |
-[NSCC BPIT Website](https://github.com/NSCC-BPIT/NSCC-BPIT-Website) | Official website |
+[The nameSpace Community Website](https://github.com/namespacecomm/namespace-community-website) | Official website |
 
 ### Join Our Organization 🤝
 <ul>
