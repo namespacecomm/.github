@@ -25,7 +25,7 @@ By contributing to open-source projects, you're shaping the core of NAMESPACE, b
 
 Open-Source Projects | Description |
 :-- | :--
-<! [Data Structure and Algorithms](https://github.com/NSCC-BPIT/Data-Structure-and-Algorithms) | DSA Problems | >
+[Data Structure and Algorithms](https://github.com/NSCC-BPIT/Data-Structure-and-Algorithms) | DSA Problems |
 [NSCC BPIT Website](https://github.com/NSCC-BPIT/NSCC-BPIT-Website) | Official website |
 
 ### Join Our Organization 🤝
