@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-    <a href="https://twitter.com/namespacecomm"><img src="https://img.shields.io/badge/Twitter-NAMESPACE%20-blue?logo=twitter&logoColor=blue&color=blue"/></a>
+    <a href="https://twitter.com/namespacecomm"><img src="https://img.shields.io/badge/Twitter-NAMESPACE-blue?logo=twitter&logoColor=blue&color=blue"/></a>
     <a href="https://www.linkedin.com/company/namespacecomm/"><img src="https://img.shields.io/badge/LinkedIn-NSCC%20BPIT-blue?logo=linkedin&logoColor=blue&color=darkcyan" /></a>
     <a href="https://instagram.com/namespacecomm"><img src="https://img.shields.io/badge/Instagram-NSCC%20BPIT-red?logo=instagram&logoColor=red&color=red" /></a>
 </div>
