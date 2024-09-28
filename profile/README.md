@@ -14,16 +14,13 @@
     <a href="https://youtube.com/namespacecomm"><img src="https://img.shields.io/badge/YouTube-NAMESPACE-red?logo=youtube&logoColor=red&color=red" style="width: 150px; height: 25px;" /></a>
     <a href="https://discord.com/invite/namespacecomm"><img src="https://img.shields.io/badge/Discord-NAMESPACE-violet?logo=discord&logoColor=violet&color=violet" style="width: 150px; height: 25px;" /></a>
 </div>
-
-
-
 <br>
 
 <div align="center">
     <h2> The nameSpace Community</h2>
     <p> Here, right now on <b>your</b> screen, you are in the presence of the most inclusive <i>Open Source</i> community!</p>
     <p>This organization is the home of <i>open source</i>! Make pull requests, open issues, share ideas, help each other, and make improvements!</p>
-</div>  
+  
 
 
 By contributing to open-source projects, you're shaping the core of NAMESPACE, bettering both your and other users' ability to utilize day-to-day.
@@ -31,6 +28,7 @@ By contributing to open-source projects, you're shaping the core of NAMESPACE, b
 Open-Source Projects | Description |
 :-- | :--
 [The nameSpace Community Website](https://github.com/namespacecomm/namespace-community-website) | Official website |
+</div>
 
 ### Join Our Organization 🤝
 <ul>
