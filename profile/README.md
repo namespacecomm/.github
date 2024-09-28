@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-    <h2> the nameSpace Community</h2>
+    <h2> The nameSpace Community</h2>
     <p> Here, right now on <b>your</b> screen, you are in the presence of the most inclusive <i>Open Source</i> community!</p>
     <p>This organization is the home of <i>open source</i>! Make pull requests, open issues, share ideas, help each other, and make improvements!</p>
 </div>  
