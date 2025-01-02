@@ -1,7 +1,7 @@
 <!-- First Panel (Social Icons) -->
 
 <h2 align="center">
-    🎉 Welcome to The nameSpace Community 🎉 
+    🎉 Welcome to The NAMESPACE Community 🎉 
 </h2> <br />
     <p align = "center">
     <a href="" /></a>
@@ -17,7 +17,7 @@
 <br>
 
 <div align="center">
-    <h2> The nameSpace Community</h2>
+    <h2> The NAMESPACE Community</h2>
     <p> Here, right now on <b>your</b> screen, you are in the presence of the most inclusive <i>Open Source</i> community!</p>
     <p>This organization is the home of <i>open source</i>! Make pull requests, open issues, share ideas, help each other, and make improvements!</p>
   
@@ -27,7 +27,7 @@ By contributing to open-source projects, you're shaping the core of NAMESPACE, b
 
 Open-Source Projects | Description |
 :-- | :--
-[The nameSpace Community Website](https://github.com/namespacecomm/namespace-community-website) | Official website |
+[The NAMESPACE Community Website](https://github.com/namespacecomm/namespace-community-website) | Official website |
 </div>
 
 ### Join Our Organization 🤝
