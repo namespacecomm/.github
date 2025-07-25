@@ -1,7 +1,7 @@
 <!-- First Panel (Social Icons) -->
 
 <h2 align="center">
-    🎉 Welcome to The NAMESPACE Community 🎉 
+    🎉 Welcome to NAMESPACE 🎉 
 </h2> <br />
     <p align = "center">
     <a href="" /></a>
@@ -17,7 +17,7 @@
 <br>
 
 <div align="center">
-    <h2> The NAMESPACE Community</h2>
+    <h2> NAMESPACE </h2>
     <p> Here, right now on <b>your</b> screen, you are in the presence of the most inclusive <i>Open Source</i> community!</p>
     <p>This organization is the home of <i>open source</i>! Make pull requests, open issues, share ideas, help each other, and make improvements!</p>
   
